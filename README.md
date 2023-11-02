@@ -1,0 +1,2 @@
+# MathLeetCode
+Leetcode for math
